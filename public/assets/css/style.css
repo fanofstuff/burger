@@ -1,19 +1,27 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+body {
+  background-color: lightyellow; 
 }
 
-.label {
+#burger-name {
+  font-size: 50px
+}
+
+ul {
+  list-style-type: none;
+}
+
+.fresh {
+  padding: 10px;
+  margin: 5px;
+  background: #faebd7;
+  font-size: 25px; 
   font-weight: bold;
 }
 
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
+.gone-reduced-to-atoms {
+  padding: 10px; 
+  margin: 5px; 
+  background: lightgrey; 
+  font-size: 25px; 
 }
 
-.form-group {
-  margin-bottom: 5px;
-}
