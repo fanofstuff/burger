@@ -1,0 +1,27 @@
+body {
+  background-color: lightyellow; 
+}
+
+#burger-name {
+  font-size: 50px
+}
+
+ul {
+  list-style-type: none;
+}
+
+.fresh {
+  padding: 10px;
+  margin: 5px;
+  background: #faebd7;
+  font-size: 25px; 
+  font-weight: bold;
+}
+
+.gone-reduced-to-atoms {
+  padding: 10px; 
+  margin: 5px; 
+  background: lightgrey; 
+  font-size: 25px; 
+}
+
